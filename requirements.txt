@@ -5,6 +5,4 @@ matplotlib
 scikit-image
 pytesseract
 Pillow
-
-
-
+streamlit-image-comparison
