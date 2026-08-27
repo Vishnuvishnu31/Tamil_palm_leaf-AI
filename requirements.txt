@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 opencv-python-headless
 numpy
@@ -5,3 +6,6 @@ matplotlib
 scikit-image
 pytesseract
 Pillow
+=======
+
+>>>>>>> 793ce844b5736e2a5c0eaec2fac266e2556d2e50
